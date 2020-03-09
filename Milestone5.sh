@@ -8,9 +8,9 @@
 # and add an .txt file as a second argument in the terminal.
 
 # Temporary files
-TEXTFILE="$1"
+Text_file="$1"
 
 # First we display the textfile using (cat), after that we use (grep -Eo 'w+') to place each word on a seperate line.
 # After that we count the occurance of 'de' using (grep -c) and to make sure we count uppercase and lowercase,
 # we use (grep -i).
-cat $TEXTFILE | grep -Eo '\w+' | grep -ic 'de'
+cat "$Text_file" | grep -Eo "\w+" | grep -ic "de"
