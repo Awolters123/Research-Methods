@@ -5,7 +5,11 @@
 
 # Note!
 # To make this shelscript work, you must run this script as the first command in the terminal,
-# and add an .txt file as a second argument in the terminal.
+# and add an .txt file as a second argument in the terminal, under this text I will show an example how it should look
+# in the terminal.
+# Example:
+# (@Username ~ % Milestone5.sh rug_wiki.txt)
+
 
 # Temporary files
 Text_file="$1"
