@@ -4,3 +4,5 @@ The file called Final_Project.sh is the shellscript used for the final projects 
 
 In this repository you will also find the custom created G_handel csv file thats created with the shellscript. 
 In this repository there's also an file named G_handel (difference per year) and G_handel (difference per quarter).
+
+link to the website were all data comes from: https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81589ned/table?ts=1585485607449
